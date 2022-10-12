@@ -1,0 +1,16 @@
+.tab:hover {
+    background-color: #f5f4f2;
+}
+
+.forgotPassword:hover {
+    color: blue!important;
+}
+
+.uploadImage {
+    color: blue;
+}
+
+.uploadImage:hover {
+    color: blue;
+    font-weight: bold;
+}
